@@ -3,7 +3,7 @@
 Este é um projeto simples de **Lista de Tarefas (To-Do List)** desenvolvido como treinamento em **JavaScript**, utilizando manipulação do **DOM** e armazenamento no **Local Storage**.
 
 ## 🌍 Acesse o Projeto
-🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/ToDoList/)
+🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/TreinamentoToDoList/)
 
 ## 🚀 Funcionalidades
 
@@ -35,3 +35,8 @@ O projeto possui dois arquivos **index.js**:
 4. Para remover uma tarefa, clique no botão **X** ao lado dela.
 
 📌 Projeto criado para aprendizado e prática! 🚀 Se tiver sugestões de melhorias, fique à vontade para contribuir! 😊
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/064bcada-cfe7-4eb5-bcb7-2977836d7dee" alt="Screenshot do projeto">
+</p>
+
