@@ -24,19 +24,9 @@ O projeto possui dois arquivos **index.js**:
 1️⃣ **Um arquivo manipula as tarefas apenas na própria página**, sem armazená-las permanentemente.  
 2️⃣ **Outro arquivo gerencia as tarefas usando Local Storage**, garantindo persistência mesmo após o usuário fechar e reabrir a página.  
 
-## 📌 Como Usar
+🔹 **Projeto criado para aprendizado e prática!** 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/rodrigo-falcao/TreinamentoToDoList.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
-3. Digite uma tarefa no campo de entrada e clique no botão para adicioná-la.
-4. Para remover uma tarefa, clique no botão **X** ao lado dela.
-
-📌 Projeto criado para aprendizado e prática! 🚀 Se tiver sugestões de melhorias, fique à vontade para contribuir! 😊
-
+## 📸Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/064bcada-cfe7-4eb5-bcb7-2977836d7dee" alt="Screenshot do projeto">
 </p>
-
